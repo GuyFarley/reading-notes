@@ -3,7 +3,7 @@
 ## This is my learning journal for Code Fellows.
 
 ### Introduction
-My name is Guy Farley (he/him) and I live in Bend, OR where I enjoy fly fishing and mountain biking. My background is in project management for marketing, but I've decided to shift to a career in tech. I'm very excited for this journey!
+Hello, my name is Guy Farley (he/him). I live in Bend, Oregon, where I enjoy fly fishing and mountain biking. My background is in project management for marketing but I've decided to shift to a career in tech. I'm very excited for this journey!
 
 Follow me on [GitHub](https://github.com/GuyFarley)
 
