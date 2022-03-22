@@ -1,4 +1,4 @@
-# Markdown in Github
+# Markdown in GitHub
 
 
 ### What is Markdown?
