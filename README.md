@@ -1,6 +1,6 @@
 # Guy's Reading Notes
 
-## This is my learning journal for Code Fellows.
+## Guy's learning journal for Code Fellows
 
 ### Introduction
 Hello, my name is Guy Farley (he/him). I live in Bend, Oregon, where I enjoy fly fishing and mountain biking. My background is in project management for marketing but I've decided to shift to a career in tech. I'm very excited for this journey!
