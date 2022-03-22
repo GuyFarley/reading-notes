@@ -40,3 +40,5 @@ Markdown is a simple coding language that allows you to quickly format documents
 > Be sure to follow me on [GitHub](https://github.com/GuyFarley)!
 
 Markdown is definitely worth learning if you plan to work in GitHub regularly--it's an easy way to elevate all your documentation and help you stand out amongst the competition!
+
+[Back to Home](README.md)

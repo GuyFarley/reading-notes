@@ -20,3 +20,5 @@ The terminal allows you to move throughout various directories and files using s
 - pwd - tells the user which directory they are currently in
 
 Here's a quick [cheat sheet](https://github.com/ohmyzsh/ohmyzsh/wiki/Cheatsheet) to reference for basic terminal usage!
+
+[Back to Home](README.md)
