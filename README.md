@@ -7,8 +7,8 @@ Hello, my name is Guy Farley (he/him). I live in Bend, Oregon, where I enjoy fly
 
 Follow me on [GitHub](https://github.com/GuyFarley)
 
-## Table of Contents
+### Table of Contents
 
-* Class 01a Reading - [Growth Mindset](class01a.md)
-* Class 01b Reading - [Markdown](class01b.md)
-* Class 02 Reading - [The Coder's Computer](class02.md)
+> * Class 01a Reading - [Growth Mindset](class01a.md)
+> * Class 01b Reading - [Markdown](class01b.md)
+> * Class 02 Reading - [The Coder's Computer](class02.md)
