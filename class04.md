@@ -27,4 +27,29 @@ The same article also notes **three key principles** to keep in mind:
 2. **Confidence**
 3. **Simplicity**
 
+## HTML Basics and Semantics
+
+HTML = HyperText Markup Language. This is the language that is used to build the contents of a web page as viewed in a browser. 
+
+HTML is made up of several elements, which are used to make content look a certain way on the page. 
+
+**Anatomy of an HTML element**
+1. Opening tag
+2. Closing tag
+3. Content
+
+When these individual elements are combined in the right way, they form a complete HTML page. This full HTML document is rendered by the browser to display text, images, lists, etc. on the page the way the website creator meant for it to be seen. 
+
+Semantics refers to the meaning of a code element--in other words, what purpose does the code have?
+
+As noted in MDN's article on [Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics), Some of the benefits from writing semantic markup are as follows:
+
+> - Search engines will consider its contents as important keywords to influence the page's search rankings (see [SEO](https://developer.mozilla.org/en-US/docs/Glossary/SEO))
+> - Screen readers can use it as a signpost to help visually impaired users navigate a page
+> - Finding blocks of meaningful code is significantly easier than searching through endless divs with or without semantic or namespaced classes
+> - Suggests to the developer the type of data that will be populated
+> - Semantic naming mirrors proper custom element/component naming
+
+It's always best to keep the role the code will play in mind when determining which markup to use. This will help to use the markup that will provide the most benefit for the data itself. 
+
 [Back to Home](README.md)
