@@ -21,7 +21,6 @@ You're not alone, trust me! Loops are difficult things to wrap your head around.
 A *for loop* repeats until a specified condition evaluates to "false". This type of loop will run a **pre-determined number of times**. *for loops* will be written in this format:
 ```
 for([initialExpression];[conditionExpression];[incrementExpression])
-
     statement
 ```
 You'll want to use a *for loop* when doing something to each item in a list, doing something a specific number of times, if building a counter, etc. 
@@ -29,7 +28,6 @@ You'll want to use a *for loop* when doing something to each item in a list, doi
 A *while loop*, on the other hand, executes its statements as long as a specified condition evaluates to true. This type of loop will run an undetermined number of times. You'll want to use this type of loop for repeating a task for as long as some condition is true. *while loops* will be written in this format:
 ```
 while(condition)
-
     statement
 ```
 With functions and loops in the mix, we can now start to see how powerful JavaScript can potentially be! Even with these basic tools, we now have the power to create new commands for a computer to follow. Can you feel the power?

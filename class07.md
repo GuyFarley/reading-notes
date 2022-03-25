@@ -2,9 +2,9 @@
 
 ## What is your malfunction! Hopefully not your function...
 
-But before we talk about *functions*, let's talk about the *control flow* (or, the order in which the computer executes statements in a script). Most JavaScript will include many control structures such as *conditionals*, *loops*, and *functions*. These ontrols can drive complex flows of processing with very few lines of code! Here's the point: **When reading a script, you must not only read from start to finish but also note how the program structure affects the order of execution.**
+But before we talk about *functions*, let's talk about the *control flow* (or, the order in which the computer executes statements in a script). Most JavaScript will include many control structures such as *conditionals*, *loops*, and *functions*. These controls can drive complex flows of processing with very few lines of code! Here's the point: **When reading a script, you must not only read from start to finish but also note how the program structure affects the order of execution.**
 
-Ok back to functions. They are blocks of code designed to perform a task, and are only executed when something in the script "invokes" them. Functions are how we, as coders, create new commands for a program. They are very handy because they allow you to reuse code. In other words: Once code is defined once, it can be used over and over.
+Ok back to functions. They are blocks of code designed to perform a task, and are only executed when something in the script "invokes" them. Functions are how we, as coders, create new commands for a program. They are very handy because they allow you to reuse code. In other words: Once code is defined, it can be used over and over.
 
 ## Function Invocation
 
