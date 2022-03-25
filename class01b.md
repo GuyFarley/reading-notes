@@ -1,4 +1,4 @@
-# Markdown in GitHub
+# Class 01b: Markdown in GitHub
 
 ### What is Markdown?
 

@@ -1,4 +1,4 @@
-# The Coder's Computer
+# Class 02: The Coder's Computer
 
 ### Choosing a Text Editor
 

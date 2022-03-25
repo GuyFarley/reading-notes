@@ -1,4 +1,4 @@
-# Design Web Pages with CSS
+# Class 05: Design Web Pages with CSS
 
 ## What is CSS?
 

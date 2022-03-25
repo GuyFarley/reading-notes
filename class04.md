@@ -1,4 +1,4 @@
-# Structure web pages with HTML
+# Class 04: Structure web pages with HTML
 
 ## Wireframing
 

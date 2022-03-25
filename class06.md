@@ -1,4 +1,4 @@
-# Activate Web Pages with JavaScript
+# Class 06: Activate Web Pages with JavaScript
 
 ## What is JavaScript?
 

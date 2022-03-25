@@ -1,4 +1,4 @@
-# Growth Mindset
+# Class 01a: Growth Mindset
 
 A *growth mindset* is the frame of mind which allows you to achieve goals that may seem difficult (or impossible) at first. It is an understanding that intelligence is not static, but instead can be developed. It is the knowledge that obstacles and failures will happen, but that you have the ability to work through them and learn from them to become better. 
 
