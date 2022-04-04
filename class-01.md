@@ -2,13 +2,13 @@
 
 ## Why this matters:
 
-HTML, CSS, and JavaScript all work together to create the experience of a web page. So it makes sense to understand the basics of each of these languages first: What they accomplish, their basic syntax, and how they work with each other. It's also important to look at the bigger picture of how a web page is designed, from identifying its target audience to deciding how they will interact with the site, before determining how the various languages should work together to accomplish your goals. 
+*HTML*, *CSS*, and *JavaScript* all work together to create the experience of a web page. So it makes sense to understand the basics of each of these languages first: What they accomplish, their basic syntax, and how they work with each other. It's also important to look at the bigger picture of how a web page is designed, from identifying its target audience to deciding how they will interact with the site, before determining how the various languages should work together to accomplish your goals. 
 
 ## HTML Chapter 1: "Structure"
 
-In HTML, elements (or tags) are used to describe the structure of a page. In addition to the tags themselves (usually an opening and closing tag, wrapped around content) there are also attributes that can be included in the tags, to provide more information about the element's content.
+In HTML, *elements* (or *tags*) are used to describe the structure of a page. In addition to the tags themselves (usually an opening and closing tag, wrapped around content) there are also attributes that can be included in the tags, to provide more information about the element's content.
 
-The structure that these elements create can be thought of as the "blueprint" of the final rendered page. As a metaphor, let's consider the manufacturing of a car. These HTML elements would indicate the various pieces that are used to build that car. They would tell you that the car has 4 wheels, 2 doors, a windsheld, etc. They would also tell you roughly where those pieces were located in relation to the car itself. But they wouldn't tell you the color of the car, the size of the wheels, or the angle of the windshield.  
+>The structure that these elements create can be thought of as the "blueprint" of the final rendered page. As a metaphor, let's consider the manufacturing of a car. These HTML elements would indicate the various pieces that are used to build that car. They would tell you that the car has 4 wheels, 2 doors, a windsheld, etc. They would also tell you roughly where those pieces were located in relation to the car itself. But they wouldn't tell you the color of the car, the size of the wheels, or the angle of the windshield.  
 
 ## HTML Chapter 8: "Extra Markup"
 
@@ -16,13 +16,13 @@ There's a fair amount of additional markup that can be used in HTML: Tags that d
 
 Additionally, *escape characters* can be used to include special characters in your document, or to show characters that are otherwise reserved for HTML code. For example, rather than using an ampersand (&) which is a reserved character, you can instead write *&amp* or *&#38*.
 
-Going along with the car example, maybe this particular car is a DeLorean and needs to include a flux capacitor. Doesn't quite fit into a standard category of car components, does it? You might need a unique way to identify that flux capacitor, and maybe an *id* attribute would help to identify such a unique element. 
+>Going along with the car example, maybe this particular car is a DeLorean and needs to include a flux capacitor. Doesn't quite fit into a standard category of car components, does it? You might need a unique way to identify that flux capacitor, and maybe an *id* attribute would help to identify such a unique element. 
 
 ## HTML Chapter 17: "HTML5 Layout"
 
 With HTML5, some new elements have been created to help describe the purpose of the element. These "semantic" elements allow for code to be understood more clearly. For example: Before HTML5, all different sections on a page might have been grouped together into *div* elements, with class or id attributes then used to identify the role of those sections. But with HTML5, there are now specific elements that can be used in place of *div* that will indicate the role of each section (*header*, *article*, and *nav*, to name a few).
 
-On your DeLorean engineering drawings, which are really starting to take shape by now, you may want to distinguish the trunk from the rest of the interior (assuming DeLoreans have trunks). You would use the semantic element name "trunk" on your blueprint to indicate that the trunk is separate from the rest of the interior. Same idea here - these new HTML5 elements make it that much easier for someone to read the drawings and know exactly what they're looking at. 
+>On your DeLorean engineering drawings, which are really starting to take shape by now, you may want to distinguish the trunk from the rest of the interior (assuming DeLoreans have trunks). You would use the semantic element name "trunk" on your blueprint to indicate that the trunk is separate from the rest of the interior. Same idea here - these new HTML5 elements make it that much easier for someone to read the drawings and know exactly what they're looking at. 
 
 ## HTML Chapter 18: "Process & Design"
 
@@ -35,7 +35,7 @@ To do this, you need to understand:
 
 From a design perspective, you'll want the site to be easy to navigate, intuitive, and visually communicative (not to mention easy on the eyes). You'll need to use groupings of colors, styles, and font sizes to clearly show how the information is divided. 
 
-Now this is a thought process I'm familiar with from my previous career in retail marketing, where I managed the design and production of in-store retail displays. Oftentimes these were full rollouts of displays within each store--and they started with the window displays (drawing the customer through the doors) and progressed through the store: Door clings, 3D displays inside the main entrance, and shelf displays at the point of sale. This required a lot of forethought to determine a message hierarchy, and how the customer would be compelled to buy the product as they made their way through the store to the product itself. These marketing displays started in much the same way our websites will: first, with an idea that was used to develop an initial design concept. Then becoming 3D renderings, engineering drawings, physical prototypes, and ultimately a final product. 
+>This is a thought process I'm familiar with from my previous career in retail marketing, where I managed the design and production of in-store retail displays. Oftentimes these were full rollouts of displays within each store--and they started with the window displays (drawing the customer through the doors) and progressed through the store: Door clings, 3D displays inside the main entrance, and shelf displays at the point of sale. This required a lot of forethought to determine a message hierarchy, and how the customer would be compelled to buy the product as they made their way through the store to the product itself. These marketing displays started in much the same way our websites will: first, with an idea that was used to develop an initial design concept. Then becoming 3D renderings, engineering drawings, physical prototypes, and ultimately a final product. 
 
 ## JS Introduction
 
@@ -47,7 +47,7 @@ JavaScript is used to make web pages more interactive, and they can do this in a
 
 An example of this is a slideshow, where JavaScript reacts to specific events, accesses image files, and modifies the content of a page - all of which result in a running slide show that occurs within a single space on the web page. This is not only more fun to look at than an stationary image, but allows for one piece of the page to become much more dynamic.
 
-Taking it back to retail displays for a sec, JavaScript would be like a QR Code that is included on a printed shelf strip. While the shelf strip alone would fully function as a printed piece, the QR Code is what allows interactivity between the graphic and the shopper. Another example would be a digital video screen embedded into a blade sign or aisle violator. The graphic would function just fine on its own, as a stationary printed image, but the ability to push a button and view a quick video creates interactivity that helps drive the sale. 
+>Taking it back to retail displays for a sec, JavaScript would be like a QR Code that is included on a printed shelf strip. While the shelf strip alone would fully function as a printed piece, the QR Code is what allows interactivity between the graphic and the shopper. Another example would be a digital video screen embedded into a blade sign or aisle violator. The graphic would function just fine on its own, as a stationary printed image, but the ability to push a button and view a quick video creates interactivity that helps drive the sale. 
 
 ## JS Chapter 1: “The ABC of Programming”
 
