@@ -32,6 +32,4 @@ while(condition)
 ```
 With functions and loops in the mix, we can now start to see how powerful JavaScript can potentially be! Even with these basic tools, we now have the power to create new commands for a computer to follow. Can you feel the power?
 
-
-
 [Back to Home](README.md)
