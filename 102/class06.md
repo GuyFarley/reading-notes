@@ -13,6 +13,7 @@ Of course, we know JavaScript as a scripting language for web pages--but it is u
 Ultimately, JavaScript's job is to listen to user input. Based on this input, output is fed back to the user. In this way, it makes websites interactive and dynamic! And of course, more effective at driving revenue.
 
 As noted on [W3Schools](https://www.w3schools.com/js/tryit.asp?filename=tryjs_variables_undeclared) website, here's an example of how JavaScript interacts with HTML (where the JavaScript can be found inside the *script* tags):
+
 ```
 <!DOCTYPE html>
 <html>
@@ -35,6 +36,7 @@ document.getElementById("demo").innerHTML =
 </body>
 </html>
 ```
+
 I look forward to learning much more about JavaScript and will provide updates as I learn!
 
-[Back to Home](README.md)
+[Back to Home](../README.md)
