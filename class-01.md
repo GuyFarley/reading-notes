@@ -8,7 +8,7 @@
 
 In HTML, *elements* (or *tags*) are used to describe the structure of a page. In addition to the tags themselves (usually an opening and closing tag, wrapped around content) there are also attributes that can be included in the tags, to provide more information about the element's content.
 
->The structure that these elements create can be thought of as the "blueprint" of the final rendered page. As a metaphor, let's consider the manufacturing of a car. These HTML elements would indicate the various pieces that are used to build that car. They would tell you that the car has 4 wheels, 2 doors, a windsheld, etc. They would also tell you roughly where those pieces were located in relation to the car itself. But they wouldn't tell you the color of the car, the size of the wheels, or the angle of the windshield.  
+>The structure that these elements create can be thought of as the "blueprint" of the final rendered page. As a metaphor, let's consider the manufacturing of a car. These HTML elements would indicate the various pieces that are used to build that car. They would tell you that the car has 4 wheels, 2 doors, a windshield, etc. They would also tell you roughly where those pieces were located in relation to the car itself. But they wouldn't tell you the color of the car, the size of the wheels, or the angle of the windshield.  
 
 ## HTML Chapter 8: "Extra Markup"
 
@@ -59,7 +59,7 @@ The best way to write a script is to determine your end goal, break it down in t
 
 ***How do computers fit in with the world around them?***
 
-We use computerse to create models of the world, using data we provide. Within these models:
+We use computers to create models of the world, using data we provide. Within these models:
 	- Objects represent physical things
 	- Methods perform tasks using the properties of those objects
 	- Events can be triggered when a user interacts with the computer
