@@ -4,17 +4,17 @@
 
 Lists are commonly used in HTML because they come in quite handy for many things! There are three types of lists that HTML provides us:
 
-- Ordered lists are numbered lists
-- Unordered lists are bulleted
-- Definition lists are provide definitions for each item in the list
+- **Ordered lists** are numbered lists
+- **Unordered lists** are bulleted
+- **Definition lists** are provide definitions for each item in the list
 
 ## HTML Chapter 13: “Boxes”
 
 CSS treats every HTML element as if it lives in its own box. And every box has 3 properties that can be modified to control how it appears on the page:
 
-1. Border - Separates the edge of one box from another
-2. Margin - Space around the outside of the border
-3. Padding - Space between the border and the box's contents
+1. **Border** - Separates the edge of one box from another
+2. **Margin** - Space around the outside of the border
+3. **Padding** - Space between the border and the box's contents
 
 Additional properties that can be used to change the appearance of a box include:
 
