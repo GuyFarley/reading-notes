@@ -52,7 +52,7 @@ function myFunction() {
 ## Article: “6 Reasons for Pair Programming”
 
 - Pair programming is when two developers work together at a single workstation (remotely or in person) to write code
-- According to this [codefellows article](https://www.codefellows.org/blog/6-reasons-for-pair-programming/), pair programming provides:
+- According to this [Code Fellows article](https://www.codefellows.org/blog/6-reasons-for-pair-programming/), pair programming provides:
 
 1. Greater efficiency
 2. Engaged collaboration
@@ -66,3 +66,5 @@ function myFunction() {
 - Returning multiple values from a function using an array
   - What are some good examples of how to use this in the real world?
 - The subtle differences between **parameters** and **arguments**
+
+[Back to Home](../README.md)
