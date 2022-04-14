@@ -34,7 +34,7 @@ Follow me on [GitHub](https://github.com/GuyFarley)
 > * Read: 06 - [JS Object Literals; The DOM](201/class-06.md)
 > * Read: 07 - [HTML Tables; JS Constructor Functions](201/class-07.md)
 > * Read: 08 - [More CSS Layout](201/class-08.md)
-> * Read: 09 - Forms and Events
+> * Read: 09 - [Forms and Events](201/class-09.md)
 > * Read: 10 - JS Debugging
 > * Read: 11 - Assorted Topics
 > * Read: 12 - Docs for the HTML Element & Chart.js
