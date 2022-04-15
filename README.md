@@ -35,7 +35,7 @@ Follow me on [GitHub](https://github.com/GuyFarley)
 > * Read: 07 - [HTML Tables; JS Constructor Functions](201/class-07.md)
 > * Read: 08 - [More CSS Layout](201/class-08.md)
 > * Read: 09 - [Forms and Events](201/class-09.md)
-> * Read: 10 - JS Debugging
+> * Read: 10 - [JS Debugging](201/class-10.md)
 > * Read: 11 - Assorted Topics
 > * Read: 12 - Docs for the HTML Element & Chart.js
 > * Read: 13 - Local Storage
