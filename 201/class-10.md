@@ -1,4 +1,4 @@
-# Code 201 - Class 09 - Forms and Events
+# Code 201 - Class 10 - JS Debugging
 
 ## Why this matters
 
