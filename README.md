@@ -37,7 +37,7 @@ Follow me on [GitHub](https://github.com/GuyFarley)
 > * Read: 09 - [Forms and Events](201/class-09.md)
 > * Read: 10 - [JS Debugging](201/class-10.md)
 > * Read: 11 - [Assorted Topics](201/class-11.md)
-> * Read: 12 - Docs for the HTML Element & Chart.js
+> * Read: 12 - [Docs for the HTML Element & Chart.js](201/class-12.md)
 > * Read: 13 - Local Storage
 > * Read: 14a - CSS Transforms, Transitions, and Animations
 > * Read: 14b - What Google Learned About Teams
