@@ -1,4 +1,4 @@
-# Code 201 - Docs for the HTML `<canvas>` Element & Chart.js
+# Code 201 - Class 12 - Docs for the HTML `<canvas>` Element & Chart.js
 
 ## Why this matters
 
