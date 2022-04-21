@@ -39,5 +39,5 @@ Follow me on [GitHub](https://github.com/GuyFarley)
 > * Read: 11 - [Assorted Topics](201/class-11.md)
 > * Read: 12 - [Docs for the HTML Element & Chart.js](201/class-12.md)
 > * Read: 13 - [Local Storage](201/class-13.md)
-> * Read: 14a - CSS Transforms, Transitions, and Animations
-> * Read: 14b - What Google Learned About Teams
+> * Read: 14a - [CSS Transforms, Transitions, and Animations](201/class-14a.md)
+> * Read: 14b - [What Google Learned About Teams](201/class-14b.md)
