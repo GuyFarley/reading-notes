@@ -45,5 +45,6 @@ Follow me on [GitHub](https://github.com/GuyFarley)
 ## Code 301 - Intermediate Software Development
 
 > * Read: 01 - [Introduction to React and Components](301/class-01.md)
+> * Read: 02 - [State and Props](301/class-02.md)
 
 ## Code 401 - Advanced Software Development
