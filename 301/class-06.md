@@ -33,7 +33,7 @@
 ### What is node used for?
 
 1. Running build tools for JavaScript
-2. Running JavaScript on the Server (this is the big one)
+2. Running JavaScript on the Server
 3. Can be used as a scripting language
 4. Can be used to write your own command line tool
 
