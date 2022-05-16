@@ -49,5 +49,6 @@ Follow me on [GitHub](https://github.com/GuyFarley)
 > * Read: 03 - [Passing Functions as Props](301/class-03.md)
 > * Read: 04 - [React and Forms](301/class-04.md)
 > * Read: 05 - [Putting it all together](301/class-05.md)
+> * Read: 06 - [NODE.JS](301/class-06.md)
 
 ## Code 401 - Advanced Software Development
