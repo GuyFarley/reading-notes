@@ -52,5 +52,6 @@ Follow me on [GitHub](https://github.com/GuyFarley)
 > * Read: 06 - [NODE.JS](301/class-06.md)
 > * Read: 06 - [REST](301/class-07.md)
 > * Read: 06 - [APIs](301/class-08.md)
+> * Read: 06 - [Functional Programming](301/class-09.md)
 
 ## Code 401 - Advanced Software Development
