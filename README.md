@@ -50,8 +50,9 @@ Follow me on [GitHub](https://github.com/GuyFarley)
 > * Read: 04 - [React and Forms](301/class-04.md)
 > * Read: 05 - [Putting it all together](301/class-05.md)
 > * Read: 06 - [NODE.JS](301/class-06.md)
-> * Read: 06 - [REST](301/class-07.md)
-> * Read: 06 - [APIs](301/class-08.md)
-> * Read: 06 - [Functional Programming](301/class-09.md)
+> * Read: 07 - [REST](301/class-07.md)
+> * Read: 08 - [APIs](301/class-08.md)
+> * Read: 09 - [Functional Programming](301/class-09.md)
+> * Read: 10 - [In memory storage](301/class-10.md)
 
 ## Code 401 - Advanced Software Development
