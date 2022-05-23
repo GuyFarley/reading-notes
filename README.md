@@ -54,5 +54,6 @@ Follow me on [GitHub](https://github.com/GuyFarley)
 > * Read: 08 - [APIs](301/class-08.md)
 > * Read: 09 - [Functional Programming](301/class-09.md)
 > * Read: 10 - [In memory storage](301/class-10.md)
+> * Read: 10 - [Mongo and Mongoose](301/class-11.md)
 
 ## Code 401 - Advanced Software Development
