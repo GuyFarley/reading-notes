@@ -56,5 +56,6 @@ Follow me on [GitHub](https://github.com/GuyFarley)
 > * Read: 10 - [In memory storage](301/class-10.md)
 > * Read: 11 - [Mongo and Mongoose](301/class-11.md)
 > * Read: 12 - [CRUD](301/class-12.md)
+> * Read: 13 - [More CRUD](301/class-13.md)
 
 ## Code 401 - Advanced Software Development
