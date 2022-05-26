@@ -57,8 +57,6 @@ Follow me on [GitHub](https://github.com/GuyFarley)
 > * Read: 11 - [Mongo and Mongoose](301/class-11.md)
 > * Read: 12 - [CRUD](301/class-12.md)
 > * Read: 13 - [More CRUD](301/class-13.md)
-> * Read: 14 - [Diversity & Inclusion in the Tech Industry
-](301/class-14.md)
->
+> * Read: 14 - [Diversity & Inclusion in the Tech Industry](301/class-14.md)
 
 ## Code 401 - Advanced Software Development
