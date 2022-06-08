@@ -63,3 +63,4 @@ Follow me on [GitHub](https://github.com/GuyFarley)
 ## Code 401 - Advanced Software Development
 
 > * [Introduction to SQL](401/SQL-practice.md)
+> * [Practice in the Terminal](401/command-line.md)
