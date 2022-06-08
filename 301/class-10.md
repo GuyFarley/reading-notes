@@ -10,7 +10,7 @@
 
 4. **Draw an example of a call stack and the functions that would need to be invoked to generate that call stack.**
 
-![Stack Drawing](/301/call%20stack.png)
+![Stack Drawing](./call%20stack.png)
 
 5. **What causes a Stack Overflow?** When you have a function that calls itself without an exit point, the calls will stack up on each other until they reach the browser's maximum stack capacity. This will throw an error
 

@@ -17,28 +17,28 @@
 
 ## SQL Bolt Tutorials
 
-![SQL Practice 1](/401/SQL-images/SQL-practice-1.jpg)
+![SQL Practice 1](./SQL-images/SQL-practice-1.jpg)
 
-![SQL Practice 2](/401/SQL-images/SQL-practice-2.jpg)
+![SQL Practice 2](./SQL-images/SQL-practice-2.jpg)
 
-![SQL Practice 3](/401/SQL-images/SQL-practice-3.jpg)
+![SQL Practice 3](./SQL-images/SQL-practice-3.jpg)
 
-![SQL Practice 4](/401/SQL-images/SQL-practice-4.jpg)
+![SQL Practice 4](./SQL-images/SQL-practice-4.jpg)
 
-![SQL Practice 5](/401/SQL-images/SQL-practice-5.jpg)
+![SQL Practice 5](./SQL-images/SQL-practice-5.jpg)
 
-![SQL Practice 6](/401/SQL-images/SQL-practice-6.jpg)
+![SQL Practice 6](./SQL-images/SQL-practice-6.jpg)
 
-![SQL Practice 13](/401/SQL-images/SQL-practice-13.jpg)
+![SQL Practice 13](./SQL-images/SQL-practice-13.jpg)
 
-![SQL Practice 14](/401/SQL-images/SQL-practice-14.jpg)
+![SQL Practice 14](./SQL-images/SQL-practice-14.jpg)
 
-![SQL Practice 15](/401/SQL-images/SQL-practice-15.jpg)
+![SQL Practice 15](./SQL-images/SQL-practice-15.jpg)
 
-![SQL Practice 16](/401/SQL-images/SQL-practice-16.jpg)
+![SQL Practice 16](./SQL-images/SQL-practice-16.jpg)
 
-![SQL Practice 17](/401/SQL-images/SQL-practice-17.jpg)
+![SQL Practice 17](./SQL-images/SQL-practice-17.jpg)
 
-![SQL Practice 18](/401/SQL-images/SQL-practice-18.jpg)
+![SQL Practice 18](./SQL-images/SQL-practice-18.jpg)
 
 [Back to Home](../README.md)
