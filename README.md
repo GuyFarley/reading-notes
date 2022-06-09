@@ -64,3 +64,4 @@ Follow me on [GitHub](https://github.com/GuyFarley)
 
 > * [Introduction to SQL](401/SQL-practice.md)
 > * [Practice in the Terminal](401/command-line.md)
+> * [Git Practice](401/git-practice.md)
